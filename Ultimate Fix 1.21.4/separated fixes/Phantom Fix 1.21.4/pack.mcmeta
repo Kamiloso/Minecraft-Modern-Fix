@@ -1,0 +1,14 @@
+{
+    "pack": {
+        "pack_format": 61,
+        "description": "Kamiloso Fix 1.21.4"
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "minecraft",
+                "path": "advancement/adventure/two_birds_one_arrow.json"
+            }
+        ]
+    }
+}

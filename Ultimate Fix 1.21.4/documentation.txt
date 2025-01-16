@@ -1,0 +1,27 @@
+1. Fishing Fix [ON/OFF]:
+ - Treasures are always possible to get from fishing
+
+2. Phantom Fix [STATIC]:
+ - Phantoms removed completely (doInsomnia = false)
+ - Added phantom membranes to end city treasures (guaranteed in end ships)
+ - Removes "Two Birds One Arrow" advancement
+ - Mosters Hunted advancement no longer needs phantom to be killed
+
+3. Villager Fix [ON/OFF]:
+ - Enchanted books removed from the first librarian trade
+
+4. Zombie Villager Fix [ON/OFF]:
+ - Makes all zombie villagers with 0 xp unemployed
+
+5. Dragon Egg Fix [ON/OFF]:
+ - Dragon Egg can no longer be destroyed by the Ender Dragon
+
+6. Raid Fix [ON/OFF]:
+ - All raids are forced to be in normal difficulty (to contain 5 or 6 phases)
+ - Ominous bottle drop rate from pillagers changed:
+   * level I	20%  --->  ~ 57%
+   * level II	20%  --->  ~ 14%
+   * level III	20%  --->  ~ 14%
+   * level IV	20%  --->  ~ 7%
+   * level V	20%  --->  ~ 7%
+   Note: Every level higher than I activates a raid with 2 evokers instead of 1
