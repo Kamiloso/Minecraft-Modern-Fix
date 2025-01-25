@@ -25,3 +25,6 @@
    * level IV	20%  --->  ~ 7%
    * level V	20%  --->  ~ 7%
    Note: Every level higher than I activates a raid with 2 evokers instead of 1
+
+7. Polar Bear Fix [ON/OFF]:
+  - Polar bear ability to grow up into an adult variant has been removed
