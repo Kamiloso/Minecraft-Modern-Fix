@@ -11,8 +11,7 @@
   datapack is that chests on end ships, which has been loaded, but not
   opened yet will delete their loot. It comes from the phantom fix.
 
-```warning
+## Warning
 - While updating your world to newer versions ALWAYS make
   a backup, because no one knows, what Mojang will change when it
   comes to datapack compatibility.
-```
