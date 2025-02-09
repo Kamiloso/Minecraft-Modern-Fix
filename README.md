@@ -1,9 +1,6 @@
 # Minecraft-Modern-Fix
  Datapack for modern Minecraft versions to balance and improve gameplay experience.
 
-| ![IMG1](./unimportant_images/memb.png) | ![IMG2](./unimportant_images/ench.png) | ![IMG3](./unimportant_images/butt.png) |
-| --- | --- | --- |
-
 - The "Ultimate Fix" datapack is a collection of 7 smaller patches.
   If you want to include only some of them, import these datapacks from
   the "separated fixes" folder. See datapack changelog in the "documentation.txt"
