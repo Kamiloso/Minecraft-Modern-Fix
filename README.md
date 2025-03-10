@@ -8,7 +8,7 @@
 
 - It is recommended to stay on the datapack after it is imported, but
   do as you want. The only problem, which may appear after disabling
-  datapack is that chests on end ships, which has been loaded, but not
+  datapack is that chests on end ships, which have been loaded, but not
   opened yet will delete their loot. It comes from the phantom fix.
 
 ## Warning
