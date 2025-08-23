@@ -1,1 +1,0 @@
-execute as @e[type=minecraft:polar_bear,nbt={Age:-1}] run data modify entity @s Age set value -2

@@ -1,3 +1,0 @@
-scoreboard objectives add kamiloso_balance dummy
-execute unless score raid_initialize_tag kamiloso_balance matches 1 run function kamiloso_balance:raid_initialize
-scoreboard players set raid_initialize_tag kamiloso_balance 1

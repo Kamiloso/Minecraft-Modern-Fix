@@ -1,1 +1,0 @@
-scoreboard players set blind_frame kamiloso_balance 0

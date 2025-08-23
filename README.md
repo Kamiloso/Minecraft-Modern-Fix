@@ -1,17 +1,56 @@
 # Minecraft-Modern-Fix
- Datapack for modern Minecraft versions to balance and improve gameplay experience.
 
-- The "Ultimate Fix" datapack is a collection of 7 smaller patches.
-  If you want to include only some of them, import these datapacks from
-  the "separated fixes" folder. See datapack changelog in the "documentation.txt"
-  file in the proper datapack directory, for example "Ultimate Fix 1.21.4".
+Datapack for modern Minecraft versions to balance and improve the gameplay experience.  
+Although Mojang has been working hard in recent years to add new features, they are still a corporation that doesn't necessarily care whether gameplay is balanced. The main thing that matters is whether players buy the game (or addons on Marketplace).  
 
-- It is recommended to stay on the datapack after it is imported, but
-  do as you want. The only problem, which may appear after disabling
-  datapack is that chests on end ships, which have been loaded, but not
-  opened yet will delete their loot. It comes from the phantom fix.
+This datapack is dedicated to players who are disappointed with the addition of Phantoms, the too-easy access to enchantments through villagers (especially Mending), very unbalanced, inconsistent, and difficulty-dependent totem rewards from raids, and other minor problems.
+
+---
+
+## Changelog
+
+### 1. Fishing Fix
+- Treasures are always possible to get from fishing (automatic fishing farms possible again).
+
+### 2. Phantom Fix
+- Phantoms removed completely (`doInsomnia = false`).
+- Phantom membranes added to End City treasures (guaranteed in End Ships).
+- Removes the "Two Birds One Arrow" advancement.
+- "Monsters Hunted" advancement no longer requires phantoms to be killed.
+
+### 3. Villager Fix
+- Enchanted books removed from the first librarian trade. Must level it up to unlock them.
+
+### 4. Zombie Villager Fix
+- All zombie villagers with 0 XP are now unemployed.
+
+### 5. Raid Fix
+- All raids are forced to be on **Normal difficulty** (to contain 5 or 6 phases).
+- Ominous bottle drop rate from Pillagers changed:
+
+| Raid Level | Old Drop Rate | New Drop Rate |
+|------------|---------------|---------------|
+| I          | 20%           | ~57%          |
+| II         | 20%           | ~14%          |
+| III        | 20%           | ~14%          |
+| IV         | 20%           | ~7%           |
+| V          | 20%           | ~7%           |
+
+**Note:** Every level higher than I activates a raid with 2 Evokers instead of 1.
+
+### 6. Polar Bear Fix
+- Polar bear ability to grow into an adult variant has been removed.
+
+### 7. Dragon Egg Fix
+- Dragon Egg can no longer be destroyed by the Ender Dragon.
+
+---
+
+## Recommendations
+- It is recommended to stay on the datapack after it is imported, but you can do as you wish.  
+- The only problem that may appear after disabling the datapack is that chests on End Ships, which have been loaded but not yet opened, will delete their loot.
+
+---
 
 ## Warning
-- While updating your world to newer versions ALWAYS make
-  a backup, because no one knows, what Mojang will change when it
-  comes to datapack compatibility.
+- While updating your world to newer versions, **always make a backup**, because no one knows what Mojang might change regarding datapack compatibility.
