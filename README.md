@@ -20,11 +20,9 @@ This datapack is dedicated to players who are disappointed with the addition of 
 
 ### 3. Villager Fix
 - Enchanted books removed from the first librarian trade. Must level it up to unlock them.
-
-### 4. Zombie Villager Fix
 - All zombie villagers with 0 XP are now unemployed.
 
-### 5. Raid Fix
+### 4. Raid Fix
 - All raids are forced to be on **Normal difficulty** (to contain 5 or 6 phases).
 - Ominous bottle drop rate from Pillagers changed:
 
@@ -38,11 +36,15 @@ This datapack is dedicated to players who are disappointed with the addition of 
 
 **Note:** Every level higher than I activates a raid with 2 Evokers instead of 1.
 
-### 6. Polar Bear Fix
+### 5. Polar Bear Fix
 - Polar bear ability to grow into an adult variant has been removed.
 
-### 7. Dragon Egg Fix
+### 6. Dragon Egg Fix
 - Dragon Egg can no longer be destroyed by the Ender Dragon.
+
+### 7. Crafting Fix
+- Lead crafting reverted (requires slimeballs again).  
+- Lodestone crafting reverted (requires netherite ingot again).
 
 ---
 
