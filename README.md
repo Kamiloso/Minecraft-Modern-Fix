@@ -49,8 +49,9 @@ This datapack is dedicated to players who are disappointed with the addition of 
 ---
 
 ## Recommendations
-- It is recommended to stay on the datapack after it is imported, but you can do as you wish.  
-- The only problem that may appear after disabling the datapack is that chests on End Ships, which have been loaded but not yet opened, will delete their loot.
+- It is recommended to stay on the datapack after it is imported, but you can do as you wish.
+- After disabling the datapack, you should enable doInsomnia by hand.
+- After disabling the datapack chests on End Ships, which have been loaded but not yet opened, will delete their loot.
 
 ---
 
