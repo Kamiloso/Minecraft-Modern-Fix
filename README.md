@@ -13,7 +13,7 @@ This datapack is dedicated to players who are disappointed with the addition of 
 - Treasures are always possible to get from fishing (automatic fishing farms possible again).
 
 ### 2. Phantom Fix
-- Phantoms removed completely (`doInsomnia = false`).
+- Phantoms removed completely (`spawn_phantoms = false`).
 - Phantom membranes added to End City treasures (guaranteed in End Ships).
 - Removes the "Two Birds One Arrow" advancement.
 - "Monsters Hunted" advancement no longer requires phantoms to be killed.
